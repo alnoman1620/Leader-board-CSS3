@@ -159,7 +159,7 @@ footer {
     height: 75px;
   }
 }
-@media only screen and (min-width: 688px) and (max-width: 992px) {
+@media only screen and (min-width: 688px) and (max-width: 1024px) {
   .container {
     width: 100%;
   }
@@ -203,7 +203,7 @@ footer {
     font-size: 25px;
   }
   .time {
-    font-size: 30px;
+    font-size: 31px;
     padding: 15px;
     border-radius: 40px;
   }
